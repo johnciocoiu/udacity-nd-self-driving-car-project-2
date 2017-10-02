@@ -15,11 +15,11 @@ The goals / steps of this project are the following:
 [//]: # (Image References)
 
 [visualization]: ./img/visualization.png "Visualization"
-[customimg1]: ./data/test/1.png "Custom image 1"
-[customimg2]: ./data/test/2.png "Custom image 2"
-[customimg3]: ./data/test/3.jpg "Custom image 3"
-[customimg4]: ./data/test/4.jpg "Custom image 4"
-[customimg5]: ./data/test/5.jpg "Custom image 5"
+[customimg1]: ./img/test/1.png "Custom image 1"
+[customimg2]: ./img/test/2.png "Custom image 2"
+[customimg3]: ./img/test/3.jpg "Custom image 3"
+[customimg4]: ./img/test/4.jpg "Custom image 4"
+[customimg5]: ./img/test/5.jpg "Custom image 5"
 [customimg1crop]: ./img/1.png "Custom image cropped 1"
 [customimg2crop]: ./img/2.png "Custom image cropped 2"
 [customimg3crop]: ./img/3.png "Custom image cropped 3"

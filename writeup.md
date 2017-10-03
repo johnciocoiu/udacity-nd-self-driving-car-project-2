@@ -122,13 +122,37 @@ Here are five German traffic signs that I found on the web:
 ![alt text][customimg4] 
 ![alt text][customimg5]
 
-I cropped every image at input loading to the following images:
+I cropped every image at input loading to the following images, below each image I've added the possible difficulty on a 1 (easy) to 5 (difficult) scale:
+
+##### Image 1:
 
 ![alt text][customimg1crop] 
+
+_Difficulty 3:_ The images is quite bright and contains bright blue, which may influence the prediction.
+
+##### Image 2:
+
 ![alt text][customimg2crop] 
+
+_Difficulty 1:_ Clear image.
+
+##### Image 3:
+
 ![alt text][customimg3crop] 
+
+_Difficulty 2:_ Clear image, but the angle could be an issue.
+
+##### Image 4:
+
 ![alt text][customimg4crop] 
+
+_Difficulty 1:_ Clear image.
+
+##### Image 5:
+
 ![alt text][customimg5crop]
+
+_Difficulty 2:_ Clear image, but may have some cropping issues as the sign is not fully available in the 32x32 image.
 
 #### Prediction
 
